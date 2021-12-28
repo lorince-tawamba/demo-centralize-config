@@ -1,2 +1,2 @@
-# demo-centralize-config
+# Demo Centralize Config
 Demo centralize configuration
